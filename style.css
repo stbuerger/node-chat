@@ -26,8 +26,14 @@ table {
 a { text-decoration: none; color: #888; }
 a:hover { text-decoration: underline; color: #aaa; }
 
+/* Set the apps background color here */
+/* Examples you may use ..
+   RED   = #FF0000
+   BLUE  = #0000FF
+   GREEN = #008000
+*/
 #loading, #connect {
-  background: #22252a;
+  background: #FF0000;
   position: fixed;
   top: 0;
   left: 0;
